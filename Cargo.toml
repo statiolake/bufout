@@ -1,0 +1,11 @@
+[package]
+name = "bufout"
+version = "0.1.0"
+authors = ["statiolake <statiolake@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+encoding_rs_io = "0.1.7"
+encoding_rs = "0.8.23"
